@@ -6,6 +6,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/eren-kartal-38424b271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KartalEren" height="50" width="50" /></a>
 </p>
+<br>
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,bootstrap,cs,dotnet,azure,vscode,visualstudio,figma,postman,git)](https://skillicons.dev)
 <br>
