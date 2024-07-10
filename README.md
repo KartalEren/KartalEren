@@ -1,5 +1,8 @@
 # Eren Kartal
-<h1 align="center">Hi 👋, I'm Eren</h1>
+<h1 align="center">Hi 👋, I'm Eren
+<img align="center" alt="tag" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhicWp1czU3N29qaHpsajE1MXl0aDJqeXR5ZTdwbDZmMnMyMjZpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WoXL1l1Sy0yElOsawv/giphy.gif">
+
+</h1>
 
 <img align="center" alt="tag" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhicWp1czU3N29qaHpsajE1MXl0aDJqeXR5ZTdwbDZmMnMyMjZpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WoXL1l1Sy0yElOsawv/giphy.gif">
 <h3 align="left">Connect with me: </h3>
